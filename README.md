@@ -20,7 +20,7 @@ Xiaoxiong Xu
 
 # Languages Known
 | Language      |Level          | Language Preference for Project  |
-| ------------- |:-------------:| ------------------------------:  |
+| ------------- |:-------------:| :------------------------------: |
 | R             | Beginner      |                               Yes|
 | Python        | Beginner      |                             Yes++|
 | C++           | Beginner      |                               Nah|
