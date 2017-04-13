@@ -20,12 +20,12 @@ Xiaoxiong Xu
 
 # Languages Known
 | Language      |Level          | Language Preference for Project  |
-| ------------- |:-------------:| -----------------------------:   |
+| ------------- |:-------------:| ------------------------------:  |
 | R             | Beginner      | Yes                              |
-| Python        | Beginner      | Yes                              |
+| Python        | Beginner      | Yes++                            |
 | C++           | Beginner      | Nah                              |
-| HTML          | Noob          | Yes                              |
-| SQL           | Noob          | Yes                              |
+| HTML          | Noob          | Yes++++                          |
+| SQL           | Noob          | Yes++++                          |
 
 # Hobby
 cook,photography,guitar,ui design.
