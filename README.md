@@ -14,12 +14,18 @@ Third-year in Statitics Major.
 Xiaoxiong Xu
 
 # Important Links
-[Facebook](https://www.facebook.com/xiaoxiong.xu.71)
-[E-mail](xiaoxiong0601@gmail.com)
-[Github](https://github.com/OliverXiaoxiong)
++ [Facebook](https://www.facebook.com/xiaoxiong.xu.71)
++ [E-mail](xiaoxiong0601@gmail.com)
++ [Github](https://github.com/OliverXiaoxiong)
 
 # Languages Known
-R,Python,C++,Matlab
+| Language      |Level          | Language Preference for Project  |
+| ------------- |:-------------:| -----------------------------:   |
+| R             | Beginner      | Yes                              |
+| Python        | Beginner      | Yes                              |
+| C++           | Beginner      | Nah                              |
+| HTML          | Noob          | Yes                              |
+| SQL           | Noob          | Yes                              |
 
 # Hobby
 cook,photography,guitar,ui design.
